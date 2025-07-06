@@ -1,2 +1,2 @@
 # UI-Designs
-All the ui designs are included in it.
+Some of the best designs are included in it.
